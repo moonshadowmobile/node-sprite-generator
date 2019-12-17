@@ -13,7 +13,7 @@
         "underscore": "1.9.1"
     },
     "optionalDependencies": {
-        "canvas": "1.6.11",
+        "canvas": "2.6.1",
         "gm": "1.23.1"
     },
     "devDependencies": {
